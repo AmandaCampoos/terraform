@@ -1,8 +1,12 @@
-# 💻 Projeto Terraform - Infraestrutura na AWS
+![Terraform](https://img.shields.io/badge/Terraform-AWS-blueviolet?logo=terraform)
+![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
+
+
+# Projeto Terraform - Infraestrutura na AWS
 
 Este projeto utiliza **Terraform** para provisionar uma infraestrutura completa na AWS. O objetivo é demonstrar conhecimentos práticos com IaC (Infrastructure as Code), servindo como portfólio técnico.
 
-## 🚀 O que esse projeto provisiona?
+## O que esse projeto provisiona?
 
 - ✅ Instância EC2 com configurações definidas
 - ✅ Volume EBS e associação à EC2
